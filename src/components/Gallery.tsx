@@ -11,7 +11,7 @@ const Gallery: React.FC<GalleryProps> = ({paintings}) => {
   return (
     <Grid2 container spacing={2}>
       {paintings.map((painting) => (
-        <Grid2 size={3} key={painting.index}>
+        <Grid2 size={{ xs: 12, sm: 6, md: 3 }} key={painting.index}>
           <PaintingCard painting={painting} />
         </Grid2>
       ))}

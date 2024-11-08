@@ -37,7 +37,7 @@ const ColorFilters: React.FC<ColorFiltersProps> = ({
   return (
     <Grid2 container>
       {colors.map((color) => (
-        <Grid2 size={3} key={color}>
+        <Grid2 size={{ xs: 6, sm: 4, md: 3 }} key={color}>
             <FormControlLabel
               label={toTitleCase(color)}
               control={<Switch  />}
@@ -46,7 +46,7 @@ const ColorFilters: React.FC<ColorFiltersProps> = ({
             />
         </Grid2>
       ))}
-      <Grid2 size={3}>
+      <Grid2 size={{ xs: 6, sm: 4, md: 3 }}>
         <FormControlLabel
           label="Gesso"
           control={<Switch  />}
@@ -54,7 +54,7 @@ const ColorFilters: React.FC<ColorFiltersProps> = ({
           onChange={(e) => setGesso((e.target as HTMLInputElement).checked)}
         />
       </Grid2>
-      <Grid2 size={3}>
+      <Grid2 size={{ xs: 6, sm: 4, md: 3 }}>
         <FormControlLabel
           label="Contact Paper"
           control={<Switch  />}
