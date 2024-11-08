@@ -1,17 +1,23 @@
 import React from 'react';
-import { Container, Typography } from '@mui/material';
+import { Container, Stack, Typography } from '@mui/material';
 import Gallery from './components/Gallery';
+import ColorFilters from './components/ColorFilters';
 
 const App: React.FC = () => {
   return (
-    <Container>
-      <Typography variant="h3" gutterBottom align="center">
-        All Paintings
-      </Typography>
-      <Typography variant="body1" align="center">
-        Here you can see a list of all Paintings done by Bob Ross on the TV show 'The Joy of Painting'...
-      </Typography>
+    <Container style={{padding: '20px 0'}}>
+      <Stack spacing={2}>
+      <Stack>
+        <Typography variant="h3" align="center">
+          Bob Ross Paintings
+        </Typography>
+        <Typography>
+          Use the following toggles to filter the paintings by color.
+        </Typography>
+      </Stack>
+      <ColorFilters />
       <Gallery />
+      </Stack>
     </Container>
   );
 };
