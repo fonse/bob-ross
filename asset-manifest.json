@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bob-ross/static/css/main.5fad3a4e.css",
-    "main.js": "/bob-ross/static/js/main.4e7c47be.js",
+    "main.js": "/bob-ross/static/js/main.ba22fdaf.js",
     "static/js/453.87575918.chunk.js": "/bob-ross/static/js/453.87575918.chunk.js",
     "static/media/painting324.png": "/bob-ross/static/media/painting324.344db3ca009400e6ca78.png",
     "static/media/painting23.png": "/bob-ross/static/media/painting23.66d06ee1501c02ebde4e.png",
@@ -408,11 +408,11 @@
     "static/media/painting382.png": "/bob-ross/static/media/painting382.fe133a0b6963731901f8.png",
     "index.html": "/bob-ross/index.html",
     "main.5fad3a4e.css.map": "/bob-ross/static/css/main.5fad3a4e.css.map",
-    "main.4e7c47be.js.map": "/bob-ross/static/js/main.4e7c47be.js.map",
+    "main.ba22fdaf.js.map": "/bob-ross/static/js/main.ba22fdaf.js.map",
     "453.87575918.chunk.js.map": "/bob-ross/static/js/453.87575918.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5fad3a4e.css",
-    "static/js/main.4e7c47be.js"
+    "static/js/main.ba22fdaf.js"
   ]
 }
