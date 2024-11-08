@@ -9,7 +9,7 @@ export interface PaintingCardProps {
 const CardContentNoPadding = styled(CardContent)('padding-bottom: 0;');
 
 const PaintingCard: React.FC<PaintingCardProps> = ({painting: { index, title, season, episode, youtubeUrl }}) => {
-  const imageUrl = `https://www.twoinchbrush.com/images/painting${index}.webp`;
+  const imageUrl = require(`./paintings/painting${index}.png`);
   const detailsUrl = `https://www.twoinchbrush.com/painting/${index}`;
 
   return (
