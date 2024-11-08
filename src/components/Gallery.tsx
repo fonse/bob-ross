@@ -1,12 +1,13 @@
 import React from 'react';
 import { Grid2 } from '@mui/material';
 import PaintingCard from './PaintingCard';
-import paintingsData from './paintings.json';
-import { Painting } from './types';
+import { Painting } from '../types';
 
-const paintings = paintingsData as Painting[];
+interface GalleryProps {
+  paintings: Painting[];
+}
 
-const Gallery: React.FC = () => {
+const Gallery: React.FC<GalleryProps> = ({paintings}) => {
   return (
     <Grid2 container spacing={2}>
       {paintings.map((painting) => (

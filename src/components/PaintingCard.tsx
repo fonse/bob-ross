@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card, CardMedia, CardContent, Typography, CardActions, Button, styled } from '@mui/material';
-import { Painting } from './types';
+import { Painting } from '../types';
 
 export interface PaintingCardProps {
   painting: Painting;

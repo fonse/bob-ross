@@ -11,3 +11,20 @@ export interface Painting {
   contactPaper: boolean;
   gesso: boolean;
 }
+
+export const colors: color[] = [
+  "titanium_white",
+  "phthalo_green",
+  "phthalo_blue",
+  "prussian_blue",
+  "midnight_black",
+  "dark_sienna",
+  "burnt_umber",
+  "van_dyke_brown",
+  "alizarin_crimson",
+  "sap_green",
+  "cadmium_yellow",
+  "yellow_ochre",
+  "indian_yellow",
+  "bright_red",
+];
