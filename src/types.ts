@@ -1,6 +1,8 @@
 export type color = "alizarin_crimson" | "bright_red" | "cadmium_yellow" | "phthalo_green" | "prussian_blue" | "sap_green" | "titanium_white" |
              "van_dyke_brown" | "burnt_umber" | "indian_yellow" | "phthalo_blue" | "yellow_ochre" | "midnight_black" | "dark_sienna";
 
+export type TernaryFilter = "on" | "indifferent" | "off"
+
 export interface Painting {
   index: number;
   title: string;
@@ -10,6 +12,8 @@ export interface Painting {
   colors: color[];
   contactPaper: boolean;
   gesso: boolean;
+  mountains: boolean;
+  buildings: boolean;
 }
 
 export const colors: color[] = [

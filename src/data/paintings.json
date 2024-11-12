@@ -16,7 +16,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 283,
@@ -35,7 +37,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 284,
@@ -54,7 +58,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 285,
@@ -68,7 +74,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 286,
@@ -87,7 +95,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 287,
@@ -101,7 +111,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 288,
@@ -120,7 +132,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 289,
@@ -139,7 +153,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 290,
@@ -158,7 +174,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 291,
@@ -177,7 +195,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 292,
@@ -196,7 +216,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 293,
@@ -211,7 +233,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 294,
@@ -230,7 +254,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 269,
@@ -253,7 +279,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 270,
@@ -276,7 +304,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 271,
@@ -299,7 +329,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 272,
@@ -313,7 +345,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 273,
@@ -335,7 +369,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 274,
@@ -357,7 +393,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 275,
@@ -379,7 +417,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 276,
@@ -402,7 +442,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 277,
@@ -424,7 +466,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 278,
@@ -447,7 +491,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 279,
@@ -469,7 +515,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 280,
@@ -492,7 +540,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 281,
@@ -515,7 +565,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 256,
@@ -538,7 +590,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 257,
@@ -561,7 +615,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 258,
@@ -584,7 +640,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 259,
@@ -601,7 +659,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 260,
@@ -619,7 +679,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 261,
@@ -640,7 +702,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 262,
@@ -661,7 +725,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 263,
@@ -680,7 +746,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 264,
@@ -701,7 +769,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 265,
@@ -719,7 +789,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 266,
@@ -742,7 +814,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 267,
@@ -763,7 +837,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 268,
@@ -783,7 +859,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 243,
@@ -798,7 +876,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 244,
@@ -819,7 +899,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 245,
@@ -842,7 +924,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 246,
@@ -859,7 +943,9 @@
       "titanium_white"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 247,
@@ -879,7 +965,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 248,
@@ -901,7 +989,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 249,
@@ -923,7 +1013,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 250,
@@ -944,7 +1036,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 251,
@@ -967,7 +1061,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 252,
@@ -989,7 +1085,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 253,
@@ -1009,7 +1107,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 254,
@@ -1032,7 +1132,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 255,
@@ -1053,7 +1155,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 230,
@@ -1075,7 +1179,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 231,
@@ -1097,7 +1203,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 232,
@@ -1112,7 +1220,9 @@
       "titanium_white"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 233,
@@ -1130,7 +1240,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 234,
@@ -1151,7 +1263,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 235,
@@ -1167,7 +1281,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 236,
@@ -1188,7 +1304,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 237,
@@ -1208,7 +1326,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 238,
@@ -1224,7 +1344,9 @@
       "titanium_white"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 239,
@@ -1245,7 +1367,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 240,
@@ -1264,7 +1388,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 241,
@@ -1280,7 +1406,9 @@
       "titanium_white"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 242,
@@ -1302,7 +1430,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 217,
@@ -1324,7 +1454,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 218,
@@ -1346,7 +1478,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 219,
@@ -1367,7 +1501,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 220,
@@ -1389,7 +1525,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 221,
@@ -1411,7 +1549,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 222,
@@ -1430,7 +1570,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 223,
@@ -1452,7 +1594,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 224,
@@ -1470,7 +1614,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 225,
@@ -1492,7 +1638,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 226,
@@ -1513,7 +1661,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 227,
@@ -1535,7 +1685,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 228,
@@ -1556,7 +1708,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 229,
@@ -1578,7 +1732,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 203,
@@ -1595,7 +1751,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 204,
@@ -1618,7 +1776,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 205,
@@ -1636,7 +1796,9 @@
       "titanium_white"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 206,
@@ -1659,7 +1821,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 208,
@@ -1678,7 +1842,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 209,
@@ -1700,7 +1866,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 210,
@@ -1721,7 +1889,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 211,
@@ -1743,7 +1913,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 212,
@@ -1765,7 +1937,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 213,
@@ -1787,7 +1961,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 214,
@@ -1801,7 +1977,9 @@
       "titanium_white"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 215,
@@ -1821,7 +1999,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 216,
@@ -1842,7 +2022,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 190,
@@ -1863,7 +2045,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 191,
@@ -1886,7 +2070,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 192,
@@ -1907,7 +2093,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 193,
@@ -1929,7 +2117,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 194,
@@ -1951,7 +2141,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 195,
@@ -1973,7 +2165,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 196,
@@ -1994,7 +2188,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 197,
@@ -2018,7 +2214,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 198,
@@ -2040,7 +2238,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 199,
@@ -2060,7 +2260,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": true
+    "gesso": true,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 200,
@@ -2081,7 +2283,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 201,
@@ -2102,7 +2306,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 202,
@@ -2121,7 +2327,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 177,
@@ -2141,7 +2349,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 178,
@@ -2162,7 +2372,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 179,
@@ -2183,7 +2395,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 180,
@@ -2205,7 +2419,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 181,
@@ -2223,7 +2439,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 182,
@@ -2244,7 +2462,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 183,
@@ -2266,7 +2486,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 184,
@@ -2288,7 +2510,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 185,
@@ -2310,7 +2534,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 186,
@@ -2332,7 +2558,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 187,
@@ -2354,7 +2582,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 188,
@@ -2377,7 +2607,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 189,
@@ -2399,7 +2631,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 163,
@@ -2423,7 +2657,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 164,
@@ -2446,7 +2682,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 165,
@@ -2469,7 +2707,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 166,
@@ -2492,7 +2732,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 167,
@@ -2514,7 +2756,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 168,
@@ -2537,7 +2781,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 170,
@@ -2555,7 +2801,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 171,
@@ -2577,7 +2825,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 172,
@@ -2599,7 +2849,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 173,
@@ -2621,7 +2873,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 174,
@@ -2644,7 +2898,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 175,
@@ -2664,7 +2920,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 176,
@@ -2687,7 +2945,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 150,
@@ -2710,7 +2970,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 151,
@@ -2728,7 +2990,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 152,
@@ -2748,7 +3012,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 153,
@@ -2771,7 +3037,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 154,
@@ -2793,7 +3061,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 155,
@@ -2810,7 +3080,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 156,
@@ -2833,7 +3105,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 157,
@@ -2855,7 +3129,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 158,
@@ -2872,7 +3148,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 159,
@@ -2892,7 +3170,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 160,
@@ -2910,7 +3190,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 161,
@@ -2932,7 +3214,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 162,
@@ -2954,7 +3238,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 137,
@@ -2972,7 +3258,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 138,
@@ -2995,7 +3283,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 139,
@@ -3019,7 +3309,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 140,
@@ -3042,7 +3334,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 141,
@@ -3061,7 +3355,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 142,
@@ -3084,7 +3380,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 143,
@@ -3107,7 +3405,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 144,
@@ -3128,7 +3428,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 145,
@@ -3150,7 +3452,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 146,
@@ -3173,7 +3477,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 147,
@@ -3196,7 +3502,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 148,
@@ -3218,7 +3526,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 149,
@@ -3236,7 +3546,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 124,
@@ -3259,7 +3571,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 125,
@@ -3275,7 +3589,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 126,
@@ -3299,7 +3615,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 127,
@@ -3321,7 +3639,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 128,
@@ -3343,7 +3663,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 129,
@@ -3363,7 +3685,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 130,
@@ -3387,7 +3711,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 131,
@@ -3408,7 +3734,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 132,
@@ -3427,7 +3755,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 133,
@@ -3450,7 +3780,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 134,
@@ -3471,7 +3803,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 135,
@@ -3490,7 +3824,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": true,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 136,
@@ -3513,7 +3849,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 111,
@@ -3537,7 +3875,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 112,
@@ -3560,7 +3900,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 113,
@@ -3582,7 +3924,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": true
+    "gesso": true,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 114,
@@ -3600,7 +3944,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 115,
@@ -3624,7 +3970,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 116,
@@ -3647,7 +3995,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 117,
@@ -3671,7 +4021,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 118,
@@ -3693,7 +4045,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 119,
@@ -3717,7 +4071,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 120,
@@ -3741,7 +4097,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 121,
@@ -3764,7 +4122,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 122,
@@ -3786,7 +4146,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 123,
@@ -3808,7 +4170,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 98,
@@ -3829,7 +4193,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 99,
@@ -3852,7 +4218,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 100,
@@ -3874,7 +4242,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 101,
@@ -3898,7 +4268,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 102,
@@ -3916,7 +4288,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": true,
-    "gesso": true
+    "gesso": true,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 103,
@@ -3938,7 +4312,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 104,
@@ -3961,7 +4337,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 105,
@@ -3984,7 +4362,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 106,
@@ -4003,7 +4383,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 107,
@@ -4025,7 +4407,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 108,
@@ -4048,7 +4432,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 109,
@@ -4071,7 +4457,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 110,
@@ -4093,7 +4481,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 84,
@@ -4117,7 +4507,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 85,
@@ -4139,7 +4531,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 86,
@@ -4161,7 +4555,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 87,
@@ -4184,7 +4580,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 88,
@@ -4208,7 +4606,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 89,
@@ -4220,7 +4620,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 90,
@@ -4241,7 +4643,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 91,
@@ -4263,7 +4667,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 93,
@@ -4281,7 +4687,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 94,
@@ -4301,7 +4709,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 95,
@@ -4322,7 +4732,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 96,
@@ -4344,7 +4756,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 97,
@@ -4366,7 +4780,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 71,
@@ -4386,7 +4802,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 72,
@@ -4408,7 +4826,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 73,
@@ -4431,7 +4851,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 74,
@@ -4451,7 +4873,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 75,
@@ -4474,7 +4898,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 76,
@@ -4495,7 +4921,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 77,
@@ -4519,7 +4947,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 78,
@@ -4543,7 +4973,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 79,
@@ -4566,7 +4998,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 80,
@@ -4588,7 +5022,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 81,
@@ -4610,7 +5046,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 82,
@@ -4633,7 +5071,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 83,
@@ -4655,7 +5095,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 58,
@@ -4678,7 +5120,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 59,
@@ -4700,7 +5144,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 60,
@@ -4719,7 +5165,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 61,
@@ -4741,7 +5189,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 62,
@@ -4763,7 +5213,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 63,
@@ -4787,7 +5239,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 64,
@@ -4809,7 +5263,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 65,
@@ -4828,7 +5284,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 66,
@@ -4849,7 +5307,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 67,
@@ -4872,7 +5332,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 68,
@@ -4894,7 +5356,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 69,
@@ -4915,7 +5379,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 70,
@@ -4937,7 +5403,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 44,
@@ -4958,7 +5426,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 45,
@@ -4981,7 +5451,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 46,
@@ -5004,7 +5476,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 47,
@@ -5022,7 +5496,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 48,
@@ -5044,7 +5520,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 49,
@@ -5067,7 +5545,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 50,
@@ -5088,7 +5568,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 51,
@@ -5112,7 +5594,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 52,
@@ -5132,7 +5616,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 53,
@@ -5154,7 +5640,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 54,
@@ -5174,7 +5662,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 56,
@@ -5193,7 +5683,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 57,
@@ -5217,7 +5709,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 31,
@@ -5240,7 +5734,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 32,
@@ -5262,7 +5758,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 33,
@@ -5282,7 +5780,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 34,
@@ -5304,7 +5804,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 35,
@@ -5327,7 +5829,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 36,
@@ -5349,7 +5853,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 37,
@@ -5371,7 +5877,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 38,
@@ -5393,7 +5901,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 39,
@@ -5410,7 +5920,9 @@
       "titanium_white"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 40,
@@ -5433,7 +5945,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 41,
@@ -5456,7 +5970,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 42,
@@ -5478,7 +5994,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 43,
@@ -5502,7 +6020,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 17,
@@ -5525,7 +6045,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 18,
@@ -5545,7 +6067,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 19,
@@ -5568,7 +6092,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 20,
@@ -5590,7 +6116,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 21,
@@ -5612,7 +6140,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 22,
@@ -5631,7 +6161,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 23,
@@ -5655,7 +6187,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 24,
@@ -5678,7 +6212,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 25,
@@ -5701,7 +6237,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 27,
@@ -5715,7 +6253,9 @@
       "titanium_white"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 28,
@@ -5735,7 +6275,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 29,
@@ -5759,7 +6301,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 30,
@@ -5780,7 +6324,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 14,
@@ -5802,7 +6348,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 15,
@@ -5826,7 +6374,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 16,
@@ -5850,7 +6400,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 4,
@@ -5873,7 +6425,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 5,
@@ -5893,7 +6447,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 6,
@@ -5915,7 +6471,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 7,
@@ -5938,7 +6496,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 8,
@@ -5961,7 +6521,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 9,
@@ -5985,7 +6547,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 10,
@@ -6003,7 +6567,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 11,
@@ -6025,7 +6591,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 12,
@@ -6048,7 +6616,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 13,
@@ -6070,7 +6640,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 295,
@@ -6089,7 +6661,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 296,
@@ -6111,7 +6685,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 297,
@@ -6134,7 +6710,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 298,
@@ -6155,7 +6733,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 299,
@@ -6177,7 +6757,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 300,
@@ -6200,7 +6782,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 301,
@@ -6220,7 +6804,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 302,
@@ -6244,7 +6830,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 303,
@@ -6268,7 +6856,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 304,
@@ -6292,7 +6882,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 305,
@@ -6312,7 +6904,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 306,
@@ -6331,7 +6925,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 307,
@@ -6349,7 +6945,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 308,
@@ -6373,7 +6971,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 309,
@@ -6394,7 +6994,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 310,
@@ -6411,7 +7013,9 @@
       "titanium_white"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 311,
@@ -6432,7 +7036,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 312,
@@ -6454,7 +7060,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 313,
@@ -6477,7 +7085,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 314,
@@ -6498,7 +7108,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 315,
@@ -6522,7 +7134,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 316,
@@ -6544,7 +7158,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 317,
@@ -6563,7 +7179,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 318,
@@ -6579,7 +7197,9 @@
       "titanium_white"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 319,
@@ -6603,7 +7223,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 320,
@@ -6620,7 +7242,9 @@
       "titanium_white"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 321,
@@ -6644,7 +7268,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 322,
@@ -6660,7 +7286,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 323,
@@ -6679,7 +7307,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 324,
@@ -6702,7 +7332,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 325,
@@ -6724,7 +7356,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 326,
@@ -6746,7 +7380,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 327,
@@ -6768,7 +7404,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 328,
@@ -6791,7 +7429,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 329,
@@ -6815,7 +7455,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 330,
@@ -6834,7 +7476,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": true,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 331,
@@ -6856,7 +7500,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 332,
@@ -6878,7 +7524,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 333,
@@ -6900,7 +7548,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 334,
@@ -6921,7 +7571,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 335,
@@ -6941,7 +7593,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 336,
@@ -6964,7 +7618,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 337,
@@ -6988,7 +7644,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 338,
@@ -7012,7 +7670,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 339,
@@ -7029,7 +7689,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 340,
@@ -7044,7 +7706,9 @@
       "titanium_white"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 341,
@@ -7067,7 +7731,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 342,
@@ -7089,7 +7755,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 343,
@@ -7113,7 +7781,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 344,
@@ -7133,7 +7803,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": true,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 345,
@@ -7156,7 +7828,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 346,
@@ -7172,7 +7846,9 @@
       "titanium_white"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 347,
@@ -7192,7 +7868,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": true,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 348,
@@ -7216,7 +7894,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 349,
@@ -7233,7 +7913,9 @@
       "titanium_white"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 350,
@@ -7257,7 +7939,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 351,
@@ -7274,7 +7958,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 352,
@@ -7293,7 +7979,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 353,
@@ -7315,7 +8003,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 354,
@@ -7333,7 +8023,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 355,
@@ -7355,7 +8047,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 356,
@@ -7371,7 +8065,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 357,
@@ -7389,7 +8085,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 358,
@@ -7412,7 +8110,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 359,
@@ -7432,7 +8132,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 360,
@@ -7455,7 +8157,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 361,
@@ -7475,7 +8179,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 362,
@@ -7498,7 +8204,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 363,
@@ -7515,7 +8223,9 @@
       "titanium_white"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 364,
@@ -7535,7 +8245,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 365,
@@ -7558,7 +8270,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 366,
@@ -7578,7 +8292,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 367,
@@ -7601,7 +8317,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 368,
@@ -7616,7 +8334,9 @@
       "titanium_white"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 369,
@@ -7638,7 +8358,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 370,
@@ -7659,7 +8381,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 371,
@@ -7683,7 +8407,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 372,
@@ -7702,7 +8428,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 373,
@@ -7726,7 +8454,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 374,
@@ -7747,7 +8477,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 375,
@@ -7771,7 +8503,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 376,
@@ -7794,7 +8528,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 377,
@@ -7817,7 +8553,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 378,
@@ -7837,7 +8575,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 379,
@@ -7858,7 +8598,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 380,
@@ -7881,7 +8623,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 381,
@@ -7901,7 +8645,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 382,
@@ -7917,7 +8663,9 @@
       "sap_green"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 383,
@@ -7935,7 +8683,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 384,
@@ -7954,7 +8704,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": true,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 385,
@@ -7977,7 +8729,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 386,
@@ -7999,7 +8753,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 387,
@@ -8021,7 +8777,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": true
+    "gesso": true,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 388,
@@ -8042,7 +8800,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 389,
@@ -8064,7 +8824,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 390,
@@ -8087,7 +8849,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 391,
@@ -8108,7 +8872,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 392,
@@ -8126,7 +8892,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 393,
@@ -8150,7 +8918,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 394,
@@ -8172,7 +8942,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 395,
@@ -8193,7 +8965,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 396,
@@ -8217,7 +8991,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 397,
@@ -8238,7 +9014,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 398,
@@ -8260,7 +9038,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 399,
@@ -8283,7 +9063,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 400,
@@ -8301,7 +9083,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 401,
@@ -8324,7 +9108,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 402,
@@ -8346,7 +9132,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 403,
@@ -8364,7 +9152,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 404,
@@ -8388,7 +9178,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 405,
@@ -8410,7 +9202,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 406,
@@ -8429,7 +9223,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 407,
@@ -8453,7 +9249,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": true
   },
   {
     "index": 408,
@@ -8475,7 +9273,9 @@
       "yellow_ochre"
     ],
     "contactPaper": true,
-    "gesso": true
+    "gesso": true,
+    "mountains": false,
+    "buildings": false
   },
   {
     "index": 409,
@@ -8498,7 +9298,9 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": true,
+    "buildings": false
   },
   {
     "index": 410,
@@ -8516,7 +9318,9 @@
       "van_dyke_brown"
     ],
     "contactPaper": false,
-    "gesso": false
+    "gesso": false,
+    "mountains": false,
+    "buildings": true
   },
   {
     "index": 411,
@@ -8538,6 +9342,8 @@
       "yellow_ochre"
     ],
     "contactPaper": false,
-    "gesso": true
+    "gesso": true,
+    "mountains": true,
+    "buildings": false
   }
 ]
