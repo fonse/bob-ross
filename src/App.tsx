@@ -12,15 +12,15 @@ const App: React.FC = () => {
   const [colorsEnabled, setColorsEnabled] = useState(colors);
   const [mountains, setMountains] = useState<TernaryFilter>("indifferent");
   const [buildings, setBuildings] = useState<TernaryFilter>("indifferent");
-  const [gesso, setGesso] = useState<TernaryFilter>("off");
+  const [underpainting, setUnderpainting] = useState<TernaryFilter>("off");
   const [contactPaper, setContactPaper] = useState<TernaryFilter>("off");
 
   const filteredPaintings = useMemo(() => {
     return paintings.filter(painting => {
       return painting.colors.every(color => colorsEnabled.includes(color)) &&
              (
-              (painting.gesso && gesso !== "off") ||
-              (!painting.gesso && gesso !== "on")
+              (painting.underpainting && underpainting !== "off") ||
+              (!painting.underpainting && underpainting !== "on")
              ) &&
              (
               (painting.mountains && mountains !== "off") ||
@@ -35,7 +35,7 @@ const App: React.FC = () => {
               (!painting.buildings && buildings !== "on")
              );
     })
-  }, [colorsEnabled, gesso, contactPaper, mountains, buildings]);
+  }, [colorsEnabled, underpainting, contactPaper, mountains, buildings]);
 
   return (
     <Container>
@@ -58,9 +58,9 @@ const App: React.FC = () => {
           buildings={buildings}
           setMountains={setMountains}
           setBuildings={setBuildings}
-          gesso={gesso}
+          underpainting={underpainting}
           contactPaper={contactPaper}
-          setGesso={setGesso}
+          setUnderpainting={setUnderpainting}
           setContactPaper={setContactPaper}
         />
         

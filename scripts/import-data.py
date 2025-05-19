@@ -29,7 +29,7 @@ def convert(painting):
         "youtubeUrl": painting['youtube_src'].replace('www.youtube.com/embed/', 'www.youtube.com/watch?v='),
         "colors": [color for color in colors if color in color_whitelist],
         "contactPaper": "contact_paper" in tags,
-        "gesso": "black_gesso" in colors,
+        "underpainting": "underpainting" in tags,
         "mountains": "mountains" in tags,
         "buildings": any(tag in ['cabin', 'barn'] for tag in tags),
     }

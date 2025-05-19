@@ -6,22 +6,22 @@ import TernaryFilterSwitch from './TernaryFilter';
 interface SubjectFiltersProps {
   mountains: TernaryFilter;
   buildings: TernaryFilter;
-  gesso: TernaryFilter;
+  underpainting: TernaryFilter;
   contactPaper: TernaryFilter;
   setMountains: (value: TernaryFilter) => void;
   setBuildings: (value: TernaryFilter) => void;
-  setGesso: (value: TernaryFilter) => void;
+  setUnderpainting: (value: TernaryFilter) => void;
   setContactPaper: (value: TernaryFilter) => void;
 }
 
 const SubjectFilters: React.FC<SubjectFiltersProps> = ({
   mountains,
   buildings,
-  gesso,
+  underpainting,
   contactPaper,
   setMountains,
   setBuildings,
-  setGesso,
+  setUnderpainting,
   setContactPaper,
 }) => {
 
@@ -40,10 +40,10 @@ const SubjectFilters: React.FC<SubjectFiltersProps> = ({
       </Grid2>
       <Grid2 container size={{ xs: 12, sm: 6 }}>
         <Grid2 size={12}>
-          <Typography variant="h5">Filter by materials</Typography>
+          <Typography variant="h5">Filter by preparation</Typography>
         </Grid2>
         <Grid2 size={{ xs: 12, md: 6 }}>
-          <TernaryFilterSwitch label="Gesso" value={gesso} setValue={setGesso} />
+          <TernaryFilterSwitch label="Underpainting" value={underpainting} setValue={setUnderpainting} />
         </Grid2>
         <Grid2 size={{ xs: 12, md: 6 }}>
           <TernaryFilterSwitch label="Contact Paper" value={contactPaper} setValue={setContactPaper} />

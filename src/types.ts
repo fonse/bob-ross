@@ -11,7 +11,7 @@ export interface Painting {
   youtubeUrl: string;
   colors: color[];
   contactPaper: boolean;
-  gesso: boolean;
+  underpainting: boolean;
   mountains: boolean;
   buildings: boolean;
 }
